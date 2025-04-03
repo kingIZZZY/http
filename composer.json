@@ -27,13 +27,13 @@
     },
     "require": {
         "php": "^8.2",
-        "hyperf/http-server": "~3.1.0",
-        "hyperf/collection": "~3.1.0",
-        "hyperf/stringable": "~3.1.0",
-        "hyperf/codec": "~3.1.0",
-        "hyperf/context": "~3.1.0",
-        "hyperf/contract": "~3.1.0",
-        "hyperf/resource": "~3.1.0",
+        "hyperf/http-server": "dev-3.2",
+        "hyperf/collection": "dev-3.2",
+        "hyperf/stringable": "dev-3.2",
+        "hyperf/codec": "dev-3.2",
+        "hyperf/context": "dev-3.2",
+        "hyperf/contract": "dev-3.2",
+        "hyperf/resource": "dev-3.2",
         "nesbot/carbon": "^2.72.6"
     },
     "suggest": {
